@@ -1,7 +1,7 @@
-# Travel-Agency-Web-App
+# Travel-Agency-Web-Application
 
 ## App Overview
-* Web application of a travel agency, mainly for customer usage. 
+* Web application of a travel agency,  for customer usage. 
 * Created with ASP.NET Core framework.
 <kbd>
   <img src="screenshots/landing_page.png" alt="preview"/>
